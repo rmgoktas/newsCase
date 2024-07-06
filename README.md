@@ -1,5 +1,5 @@
 
 Appcent iOS Internship Case Study
 
-## Screeshots 
+## Screenshots 
 https://imgur.com/a/JnmNrlK
