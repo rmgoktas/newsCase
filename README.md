@@ -1,5 +1,7 @@
 
-Appcent iOS Internship Case Study
+# Appcent iOS Development Internship Case Study
 
 ## Screenshots 
-https://imgur.com/a/JnmNrlK
+
+<p align="center"> <img src = "https://i.imgur.com/ABddUUi.png" width=900> </p>
+
